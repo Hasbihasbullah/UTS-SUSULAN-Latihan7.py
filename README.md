@@ -19,6 +19,8 @@ print("Menampilkan bilangan terbesar dari n buah data yang di input") - adalah p
 Latihan 1, Menentukan Bilangan Terbesar dari Dua Buah Bilangan
 Scriptnya seperti ini
 
+[ image ] https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/4#issue-1125219512
+
 ￼
 
 Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 dan bilangan kedua adalah 2.
