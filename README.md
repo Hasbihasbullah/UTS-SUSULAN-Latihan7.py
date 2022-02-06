@@ -35,4 +35,6 @@ https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/6#issue-1125220
 
 # Flowchart
 
+https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/5#issue-1125220335
+
 
