@@ -31,4 +31,8 @@ Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan P
 
 
 
+https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/6#issue-1125220922
+
+# Flowchart
+
 
