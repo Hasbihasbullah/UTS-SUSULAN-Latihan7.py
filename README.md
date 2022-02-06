@@ -1,4 +1,5 @@
 # UTS SUSULAN
+# revisi nilai
 
 NIM : 312110094
 NAMA: HASBI HASBULLAH
