@@ -33,8 +33,15 @@ Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan P
 
 https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/6#issue-1125220922
 
+~ Menentukan Bilangan Terbesar dari N buah data
+Scriptnya seperti ini
+
+￼
+
+max = 0 adalah perintah yang digunakan untuk menampilkan nilai maximal yaitu 0 lalu gunakan break untuk mengakhiri pengulangan. jadi ketika menginput 0 maka pengulangan akan selesai. Masukkan bilangan yang di inginkan, lalu gunakan bilangan 0 untuk mengakhiri. Maka outputnya akan muncul seperti ini :
+
+￼
 # Flowchart
 
 https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/5#issue-1125220335
-
 
