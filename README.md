@@ -28,3 +28,5 @@ Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 d
 ￼
 
 Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan Pertama Lebih Besar", Namun Jika bilangan kedua lebih besar dari bilangan pertama, maka hasilnya "Bilangan Kedua Lebih Besar" Karena 2 lebih besar dari 1, berarti bilangan kedua lebih besar dari bilangan pertama. Maka hasilnya "Bilangan Kedua Lebih Besar"
+
+![( image )] {https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/2#issue-1124880827}
