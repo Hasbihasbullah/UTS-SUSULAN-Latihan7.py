@@ -29,6 +29,6 @@ Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 d
 
 Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan Pertama Lebih Besar", Namun Jika bilangan kedua lebih besar dari bilangan pertama, maka hasilnya "Bilangan Kedua Lebih Besar" Karena 2 lebih besar dari 1, berarti bilangan kedua lebih besar dari bilangan pertama. Maka hasilnya "Bilangan Kedua Lebih Besar"
 
-FLOWCHART#5
+
 
 
