@@ -13,3 +13,16 @@ print("Menampilkan bilangan terbesar dari n buah data yang di input") - adalah p
 
 
 ![( {https://github.com/Hasbihasbullah/UTS-SUSULAN-Latihan7.py/issues/2#issue-1124880827} )]
+
+# LATIHAN
+
+Latihan 1, Menentukan Bilangan Terbesar dari Dua Buah Bilangan
+Scriptnya seperti ini
+
+￼
+
+Lalu masukkan dua bilangan yang diinginkan, misalnya bilangan pertama adalah 1 dan bilangan kedua adalah 2.
+
+￼
+
+Jika bilangan pertama lebih besar dari bilangan kedua, maka hasilnya "Bilangan Pertama Lebih Besar", Namun Jika bilangan kedua lebih besar dari bilangan pertama, maka hasilnya "Bilangan Kedua Lebih Besar" Karena 2 lebih besar dari 1, berarti bilangan kedua lebih besar dari bilangan pertama. Maka hasilnya "Bilangan Kedua Lebih Besar"
